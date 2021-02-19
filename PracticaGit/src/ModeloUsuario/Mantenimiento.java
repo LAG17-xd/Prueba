@@ -12,19 +12,19 @@ public class Mantenimiento extends Usuario {
     public Mantenimiento() {
     }
     
-    private Void NombresApAm;
+    private String NombresApAm;
     
-    private String area;
+    private Void area;
     
     public void Limpiar() {
         // TODO implement here
     }
     
-    public void acomodar() {
+    public void Acomodar() {
         // TODO implement here
     }
     
-    public void recoger_cosas() {
+    public void Recoger_cosas() {
     	
     }
 
